@@ -1,0 +1,5 @@
+.DS_Store
+# Editable Office copies stay local; PDFs are published
+*.docx
+*.pptx
+~$*

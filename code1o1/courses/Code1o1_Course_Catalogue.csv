@@ -1,0 +1,12 @@
+Course,For,"Students can, by the end…",Tools,Format,Length,Fee (₹),Students taught,Projects
+Coding Kickstart (summer camp),"Any age, complete beginners","See what code can do: a Scratch game, a first web page and a first Python program","Scratch, HTML/CSS, Python (Colab)",Offline group,12 × 1 h,"7,000 per student",5,"Scratch game, first web page, first Python program"
+Foundations of Coding,Grade 5–7,"Move from Scratch to Python, up to loops","Scratch, Python (Colab)",Offline 1:1,24 × 1 h,"21,600",1,"Calculator, text adventure, rock-paper-scissors, number guessing, text-based console with 3 games"
+Python,Grade 7+,"Write Python with variables, loops, conditions, functions, lists and dictionaries",Python (Colab),Online 1:1,28 × 1 h,"19,600",3,"Calculator, text adventure, rock-paper-scissors, number guessing, text-based console with 3 games"
+Python 2,Grade 9+,Use advanced data structures and classes to build small systems,Python (Colab),Online 1:1,28 × 1 h,"22,400",1,"Student data management system, library system"
+Python NextGen,Grade 6/7+,Build games with pygame,"Python, pygame",Offline 1:1,24 × 1 h,"21,600",1,"pygame games (e.g. snake, car game)"
+Python in Finance,BBA / BSc finance (18+),Simulate a portfolio of stocks with Monte Carlo methods,"Python, NumPy, pandas, Plotly, Streamlit",Online 1:1,40 × 1 h,"30,000",1,Monte Carlo portfolio simulator (capstone)
+AI/ML,Grade 9+,Analyse data with pandas and Matplotlib and train basic regression models,"Python, pandas, Matplotlib, scikit-learn",Online 1:1,32 × 1 h,"22,400",1,Data visualisation and regression projects
+Mastering AI,Grade 11+,"Use ChatGPT, Claude, Gemini and Perplexity effectively",LLM tools,Online 1:1,15 × 1 h,"15,000",1,Personal prompt library
+Web Dev,Grade 7+,"Build web pages with HTML, CSS and JavaScript","HTML, CSS, JS",Online 1:1,30 × 1 h,"22,400",0,Web pages
+Object-Oriented Programming,Grade 9+,Design programs with classes in Java and C++,"Java, C++",Online 1:1,32 × 1 h,"22,400",0,
+Computer tuitions,Grade 5–10 (IGCSE/IB),Keep up with the school ICT/computer science syllabus,As per school syllabus,Online 1:1,"Semester, 2 h/week","16,000",3,
