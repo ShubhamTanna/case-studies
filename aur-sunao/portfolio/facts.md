@@ -13,6 +13,10 @@ All unit-economics figures come from `model/Aur_Sunao_Unit_Economics.xlsx` (live
 | Bundle discount | ₹1,170 of pay-per-use value sold for ₹499 (80 min × ₹9 + ₹450) | Inputs sheet |
 | Survey | 54 respondents; 80% prefer a human listener, 2 of 54 prefer AI; 78% rate privacy 5/5; 39% need someone weekly or daily; 11% have used such a platform | survey CSV |
 | Context | 6-person team project, Semester 5, 2024; unit-economics review added in 2026 | README |
+| Contribution margin | −52.4% original vs 28.4% recommended | Unit Economics sheet, row 14 |
+| Sensitivity grid | ₹37 to ₹351 contribution per subscriber across 50–100% usage and 60–85% payout share | Sensitivity sheet |
+| Pay-per-use listener price | ₹90 per 10 minutes | Inputs sheet |
+| AI chatbot maintenance (dropped in the redesign) | ₹2,500 a month | Inputs sheet |
 
 ## Key assumptions
 
@@ -21,6 +25,7 @@ All unit-economics figures come from `model/Aur_Sunao_Unit_Economics.xlsx` (live
 ## Caveats
 
 - The survey is a convenience sample (89% aged 18–25), so treat its figures as directional.
+- Numbers inside the prototype screens (dates, minutes, timers, IDs) are placeholder UI content, not data. The profile photo on the Home screen is blurred.
 
 ## Files
 

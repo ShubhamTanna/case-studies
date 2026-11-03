@@ -10,6 +10,8 @@
 | Fix 2 | about ₹30 Cr a year (15% × 1,00,000 EVs × ₹20,000) plus ₹15–20 Cr telematics data | report Recommendation 2 |
 | Fix 3 | Cross-group loyalty tier; assumed 8% retention lift over five years, no ₹ estimate | report Recommendation 3 |
 | Context | Marketing Management, Semester 7, 2025; 6-person team, I owned the Tata Motors workstream | README |
+| Retention effect (Fix 1) | a 5% retention increase projected to lift premium customer lifetime value by 15% over ten years | report Recommendation 1; deck slide 18 |
+| Fix 2 volume assumption | 1,00,000 new EV sales estimated by FY27 | report Recommendation 2; deck slide 22 |
 
 ## Caveats
 

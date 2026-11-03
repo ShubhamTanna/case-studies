@@ -18,3 +18,4 @@ Figures come from the founders' own records and the course catalogue. Revenue an
 | In-home consultations | 4 visits → 4 clients | founders' records |
 | Interns | 3 hired and managed (creatives, marketing, outreach) | founders' records |
 | Teaching load | about 4–5 hours a week | founders' records |
+| Python NextGen course plan | 24 one-hour 1:1 sessions over 12 weeks, ages 11–14; 18 h Python (75%) and 6 h Pygame game development (25%), with the block-by-block hours shown in the plan | course plan PDF (private Google Drive), shown in `portfolio/screens/` |

@@ -7,6 +7,7 @@
 | Emissions scale | Reliance Scope 1+2 (37.9M tCO₂e) is about 34× Adani Enterprises' (1.13M tCO₂e); not scored | README |
 | Corrected figure | Adani total emissions about 8.45M tCO₂e (the deck originally said 81.3M) | deck slide 3 |
 | Context | Solo project, Professional Communication & Ethics, Semester 6, 2025 | README |
+| Reliance non-renewable energy | 98.6% (100% − 1.4% renewable) | derived; deck slide 19 |
 
 ## Caveats
 

@@ -7,6 +7,7 @@
 | Model checks | adjusted R² 0.668, F 44.237, max VIF 4.73, Durbin-Watson 1.82 | tables 4a and 4b |
 | Source study | Li, S. (2020), doi:10.25236/FSST.2020.021516 | README |
 | Context | Solo, Semester 2, 2023 | README |
+| Full regression table | t, p and VIF for all 15 predictors (`portfolio/chart-1.csv`); constant t = 45.725 | `tables/table4a_regression_coefficients.png` |
 
 ## Caveats
 

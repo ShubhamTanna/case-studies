@@ -12,6 +12,7 @@
 
 - Questions were multi-select (n = 91), so percentages add to more than 100%.
 - Sample demographics weren't recorded. "22–40, Mumbai/Pune" is the target-user definition, not the sample.
+- Prices, ratings, review counts and discounts in the wireframes are placeholder content, not data.
 
 ## Files
 
