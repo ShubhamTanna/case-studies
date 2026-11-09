@@ -86,5 +86,5 @@ The interactive Figma prototype is at this [link](https://www.figma.com/proto/b5
 **Methods:** problem framing, user survey, personas, feature design, pricing and business model, paper wireframes, prototyping in Figma, unit economics (contribution margin and break-even), sensitivity analysis.
 
 ---
-**Shubham Tanna** · product concept, survey research, Figma prototype, pricing, unit economics, Excel modelling
+Team of 6 (2024): idea, research, product, pricing plans, prototype · Shubham Tanna (2026): unit-economics model and redesign
 <!-- SITE_LINK:work/aur-sunao -->
